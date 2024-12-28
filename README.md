@@ -1,0 +1,1 @@
+This To-Do List app allows users to easily manage tasks by adding, marking as completed, or removing them. Built using HTML, CSS, and JavaScript, the app offers a professional and responsive design. Tasks are persistently saved using localStorage, ensuring data retention even after page refreshes or browser closures.
